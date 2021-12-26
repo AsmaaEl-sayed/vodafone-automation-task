@@ -1,5 +1,6 @@
 # vodafone-automation-task
-This project represent search for vodafone keyword in google search by selenium webDriver with java
+
+#This project represent search for vodafone keyword in google search by selenium webDriver with java
 Our scenario:
         1- Redirect to "www.google.com"
         2- Search with "vodafone" keyword
